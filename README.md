@@ -2,9 +2,19 @@
 
 ## About this project
 
-This repository documents my own work completing the practical capstone of the GRC Mastery ISO 27001 Lead Auditor training: a simulated Stage 2 (initial certification) audit against ISO/IEC 27001:2022, acting as Lead Auditor for a fictional, anonymised organisation (a fictional cloud-storage provider).
+This repository documents my own work completing the practical capstone of the GRC Mastery ISO 27001 Lead Auditor training: a simulated Stage 2 (initial certification) audit against ISO/IEC 27001:2022, acting as Lead Auditor for a fictional, anonymised organisation ("Meridian Cloud Pty Ltd", a fictional cloud-storage provider).
 
-This is training material, not a real client engagement. The fictional case materials, templates and evidence pack are the proprietary property of GRC Mastery and are not reproduced here, this write-up intentionally avoids restating the exact case details, scenario text or deliverable structure. What follows is my own account of the audit methodology I applied and the conclusions I reached, generalised enough to protect the course material while still reflecting the real work.
+This is training material, not a real client engagement. The original fictional case materials and evidence pack are the proprietary property of GRC Mastery. At the course provider's request, the organisation name in the completed workbooks below has been anonymised. This repository reflects my own completed work and write-up, not GRC Mastery's original case documents.
+
+## Completed workbooks
+
+The five workbooks below are my completed submission, covering the full ISO 19011 audit lifecycle:
+
+- [Stage 1: Plan the Audit](./MeridianCloud_Student_Workbook_Stage1_Plan.xlsx)
+- [Stage 2: Lead the Audit Team](./MeridianCloud_Student_Workbook_Stage2_Lead_the_Team.xlsx)
+- [Stage 3: Conduct the Audit](./MeridianCloud_Student_Workbook_Stage3_Conduct.xlsx)
+- [Stage 4: Report and Close the Audit](./MeridianCloud_Student_Workbook_Stage4_Report_and_Close.xlsx)
+- [Stage 5: Professional Behaviour and Auditor Reflection](./MeridianCloud_Student_Workbook_Stage5_Professional_Behaviour.xlsx)
 
 ## What the exercise covered
 
@@ -48,5 +58,5 @@ I completed this as part of my own professional development in GRC and cybersecu
 
 ## Related work
 
-- [ICT Resilience Framework: DORA & ISO/IEC 22301](https://github.com/Odera-aja/DORA-ISO27001-CryptoCustodian-ISMS)
+- [ICT Resilience Framework: DORA & ISO/IEC 22301](https://github.com/Odera-aja/ICT-Resilience-DORA-BCM-CaseStudy)
 - [NIST CSF Cybersecurity Assessment & 3-Year Roadmap](https://github.com/Odera-aja/nist-csf-cybersecurity-assessment)
